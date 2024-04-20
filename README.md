@@ -1,3 +1,6 @@
+
+![Project Logo](Screenshot/Olympics-Emblem.png)
+
 # Olympics Data Analysis Web Application
 
 This web application provides data analysis of the Olympics from 1896 to 2016. It includes various features such as country-wise medal distribution, analysis of total game medals, male-female proportion analysis, and country performance across all Olympic games.
