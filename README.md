@@ -1,5 +1,5 @@
 
-![Project Logo](Screenshot/Olympics-Emblem.png)
+![Project Image](https://github.com/Mahendrak1999/Olympics-Analysis-WebApp/blob/master/Olympics-Emblem.png)
 
 # Olympics Data Analysis Web Application
 
@@ -11,6 +11,7 @@ This web application provides data analysis of the Olympics from 1896 to 2016. I
 - **Total Game Medal Analysis:** Analyze the total number of medals won in all Olympic games.
 - **Male-Female Proportion Analysis:** Explore the proportion of male and female participants in Olympic events.
 - **Country Performance Analysis:** Analyze the performance of countries across all Olympic games.
+- **Live site:**
 
 ## Technologies Used
 
@@ -36,6 +37,13 @@ To run the web application locally, follow these steps:
 
 ## Screenshots
 
-[Insert screenshots of the web application here]
+![Project Image](https://github.com/Mahendrak1999/Olympics-Analysis-WebApp/blob/master/ScreenShot/Screenshot%202024-04-19%20at%2011.21.21%E2%80%AFPM.png)
+![Project Image](https://github.com/Mahendrak1999/Olympics-Analysis-WebApp/blob/master/ScreenShot/Screenshot%202024-04-19%20at%2011.22.26%E2%80%AFPM.png)
+![Project Image](https://github.com/Mahendrak1999/Olympics-Analysis-WebApp/blob/master/ScreenShot/Screenshot%202024-04-19%20at%2011.22.30%E2%80%AFPM.png)
+![Project Image](https://github.com/Mahendrak1999/Olympics-Analysis-WebApp/blob/master/ScreenShot/Screenshot%202024-04-19%20at%2011.22.40%E2%80%AFPM.png)
+![Project Image](https://github.com/Mahendrak1999/Olympics-Analysis-WebApp/blob/master/ScreenShot/Screenshot%202024-04-19%20at%2011.23.43%E2%80%AFPM.png)
+![Project Image](https://github.com/Mahendrak1999/Olympics-Analysis-WebApp/blob/master/ScreenShot/Screenshot%202024-04-19%20at%2011.23.54%E2%80%AFPM.png)
+![Project Image](https://github.com/Mahendrak1999/Olympics-Analysis-WebApp/blob/master/ScreenShot/Screenshot%202024-04-19%20at%2011.23.02%E2%80%AFPM.png)
+
 
 
