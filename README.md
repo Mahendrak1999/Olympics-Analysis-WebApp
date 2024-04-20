@@ -11,7 +11,9 @@ This web application provides data analysis of the Olympics from 1896 to 2016. I
 - **Total Game Medal Analysis:** Analyze the total number of medals won in all Olympic games.
 - **Male-Female Proportion Analysis:** Explore the proportion of male and female participants in Olympic events.
 - **Country Performance Analysis:** Analyze the performance of countries across all Olympic games.
-- **Live site:**
+
+
+- **Live site:-** https://olympics-sport-analysis.streamlit.app
 
 ## Technologies Used
 
