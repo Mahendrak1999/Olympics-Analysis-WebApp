@@ -1,7 +1,7 @@
 
 ![Project Image](https://github.com/Mahendrak1999/Olympics-Analysis-WebApp/blob/master/Olympics-Emblem.png)
 
-# Olympics Data Analysis Web Application
+# Medal Mania : An Insightful Journey into Olympic History🥇🥈🥉 - Web Application
 
 This web application provides data analysis of the Olympics from 1896 to 2016. It includes various features such as country-wise medal distribution, analysis of total game medals, male-female proportion analysis, and country performance across all Olympic games.
 
@@ -43,6 +43,9 @@ To run the web application locally, follow these steps:
 ![Project Image](https://github.com/Mahendrak1999/Olympics-Analysis-WebApp/blob/master/ScreenShot/Screenshot%202024-04-19%20at%2011.22.26%E2%80%AFPM.png)
 ![Project Image](https://github.com/Mahendrak1999/Olympics-Analysis-WebApp/blob/master/ScreenShot/Screenshot%202024-04-19%20at%2011.22.30%E2%80%AFPM.png)
 ![Project Image](https://github.com/Mahendrak1999/Olympics-Analysis-WebApp/blob/master/ScreenShot/Screenshot%202024-04-19%20at%2011.22.40%E2%80%AFPM.png)
+![Project Image](https://github.com/Mahendrak1999/Olympics-Analysis-WebApp/blob/master/ScreenShot/Screenshot%202024-04-21%20at%2010.41.16%E2%80%AFAM.png)
+![Project Image](https://github.com/Mahendrak1999/Olympics-Analysis-WebApp/blob/master/ScreenShot/Screenshot%202024-04-21%20at%2010.41.25%E2%80%AFAM.png)
+![Project Image](https://github.com/Mahendrak1999/Olympics-Analysis-WebApp/blob/master/ScreenShot/Screenshot%202024-04-21%20at%2010.41.48%E2%80%AFAM.png)
 ![Project Image](https://github.com/Mahendrak1999/Olympics-Analysis-WebApp/blob/master/ScreenShot/Screenshot%202024-04-19%20at%2011.23.43%E2%80%AFPM.png)
 ![Project Image](https://github.com/Mahendrak1999/Olympics-Analysis-WebApp/blob/master/ScreenShot/Screenshot%202024-04-19%20at%2011.23.54%E2%80%AFPM.png)
 ![Project Image](https://github.com/Mahendrak1999/Olympics-Analysis-WebApp/blob/master/ScreenShot/Screenshot%202024-04-19%20at%2011.23.02%E2%80%AFPM.png)
