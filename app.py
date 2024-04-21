@@ -21,6 +21,7 @@ user_menu = st.sidebar.radio(
 
 if user_menu == 'Medal Tally':
     st.sidebar.header("Medal Tally")
+    st.sidebar.write("To see the Stats Of Particular Country, Choose the Year & Country from following DropDown List")
     years, country = helper.country_year_list(df)
 
     selected_year = st.sidebar.selectbox("Select Year", years)
@@ -45,7 +46,7 @@ if user_menu == 'Overall Analysis':
     athletes = df['Name'].unique().shape[0]
     nations = df['region'].unique().shape[0]
 
-    st.title("Top Statistics Of Olympics Games Played Year from 1896 To 2016")
+    st.title("Top Statistics Of Olympics Games Played Year from 1896 To 2016.")
     col1, col2, col3 = st.columns(3)
     with col1:
         st.header("Count Of Total Olympics")
@@ -132,8 +133,9 @@ if user_menu == 'Athlete wise Analysis':
 
     fig = ff.create_distplot([x1, x2, x3, x4], ['Overall Age', 'Gold Medalist', 'Silver Medalist', 'Bronze Medalist'],
                              show_hist=False, show_rug=False)
-    fig.update_layout(autosize=False, width=1000, height=600)
+    fig.update_layout(autosize=False, width=1000, height=600,xaxis_title="Age", yaxis_title="Density")
     st.title("Distribution of Age")
+    st.write("If You want to see the graph of particular Medal, Unclick the color palate from right side of the graph info section")
     st.plotly_chart(fig)
 
     x = []
@@ -153,8 +155,9 @@ if user_menu == 'Athlete wise Analysis':
         name.append(sport)
 
     fig = ff.create_distplot(x, name, show_hist=False, show_rug=False)
-    fig.update_layout(autosize=False, width=1000, height=600)
+    fig.update_layout(autosize=False, width=1000, height=600, xaxis_title="Age", yaxis_title="Density")
     st.title("Distribution of Age wrt Sports(Gold Medalist)")
+    st.write("To see the graph of particular Sport, Unclick the color palate from right side of the graph info section")
     st.plotly_chart(fig)
 
     sport_list = df['Sport'].unique().tolist()
@@ -162,6 +165,7 @@ if user_menu == 'Athlete wise Analysis':
     sport_list.insert(0, 'Overall')
 
     st.title('Height Vs Weight')
+    st.write("To see the Distribution of particular Sport, Choose the sport from following DropDown List")
     selected_sport = st.selectbox('Select a Sport', sport_list)
     temp_df = helper.weight_v_height(df, selected_sport)
 
